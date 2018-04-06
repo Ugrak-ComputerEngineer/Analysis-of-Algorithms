@@ -106,6 +106,6 @@ int main(int argc, char** argv) {
 	}
   	hesapla(agac->kok,0);
   	listele(agac->kok);
-    printf("\nToplam : %d",toplam);
+    printf("\nToplam : %d",toplam/n);
     return (EXIT_SUCCESS);
 }
